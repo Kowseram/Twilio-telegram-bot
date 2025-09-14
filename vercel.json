@@ -8,6 +8,10 @@
     {
       "src": "/(.*)",
       "dest": "/index.php"
+    },
+    {
+      "src": "/webhook.php",
+      "dest": "/webhook.php"
     }
   ]
 }
